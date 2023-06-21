@@ -255,10 +255,9 @@ export const projects: IProject[] = [
     {
         name: "Student Portal",
         image_path: [
-            "/images/projects/StudentPortal/StudentPortal.png",
-            "/images/projects/StudentPortal/StudentPortal2.png",
-            "/images/projects/StudentPortal/StudentPortal3.png",
-            "/images/projects/StudentPortal/StudentPortal4.png",
+            "/images/projects/StudentPortal/portal.png",
+            "/images/projects/StudentPortal/portal2.png",
+            "/images/projects/StudentPortal/portal3.png",
         ],
         deployed_url: "",
         github_url: "",
