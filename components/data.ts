@@ -216,14 +216,14 @@ export const projects: IProject[] = [
             "/images/projects/portfolio/portfolio3.png",
 
         ],
-        deployed_url: "",
-        github_url: "",
+        deployed_url: "https://portofolio-akbarmaulanar21.vercel.app/",
+        github_url: "https://github.com/Akbarmaulanar21/portofolio",
         category: ["Website"],
         key_techs: ["React.js", "Next.js", "Tailwind CSS"],
     },
 
     {
-        name: "Website GMath",
+        name: "GMath",
         image_path: [
             "/images/projects/Gmath/Gmath.png",
             "/images/projects/Gmath/Gmath2.png",
@@ -234,7 +234,38 @@ export const projects: IProject[] = [
         category: ["Website"],
         description:
             "This app is a website for GMath, a math learning center for elementary school students. This website is used to promote GMath and also to provide information about GMath.",
-        key_techs: [ "Vanilla JS", "Bootstrap",],
+        key_techs: [ "Bootstrap"],
+    },
+
+    {
+        name: "Data Mahasiswa",
+        image_path: [
+            "/images/projects/DataMahasiswa/DataMahasiswa.png",
+            "/images/projects/DataMahasiswa/DataMahasiswa2.png",
+            "/images/projects/DataMahasiswa/DataMahasiswa3.png",
+        ],
+        deployed_url: "",
+        github_url: "https://github.com/Akbarmaulanar21/Praktikum_Web",
+        category: ["Website"],
+        description:
+            "This app is a website for managing student data. This website is used to manage student data, such as adding, editing, and deleting student data.",
+        key_techs: ["Laravel", "Bootstrap",],
+    },
+
+    {
+        name: "Student Portal",
+        image_path: [
+            "/images/projects/StudentPortal/StudentPortal.png",
+            "/images/projects/StudentPortal/StudentPortal2.png",
+            "/images/projects/StudentPortal/StudentPortal3.png",
+            "/images/projects/StudentPortal/StudentPortal4.png",
+        ],
+        deployed_url: "",
+        github_url: "",
+        category: ["Website"],
+        description:
+            "This app is a website for student portals. This website is used to provide information about the campus, such as the campus profile, campus news, and campus events.",
+        key_techs: ["ReactJs", "Vanila CSS",],
     },
 
 ];
