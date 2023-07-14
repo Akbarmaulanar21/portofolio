@@ -267,4 +267,18 @@ export const projects: IProject[] = [
         key_techs: ["ReactJs", "Vanila CSS",],
     },
 
+    {
+        name: "Tong Company",
+        image_path: [
+            "/images/projects/Design/Tong1.jpg",
+            "/images/projects/Design/Tong2.jpg",
+        ],
+        deployed_url: "",
+        github_url: "",
+        category: ["Design"],
+        description:
+            "The Tong Company Community logo is a graphical representation that reflects the values, goals, and unique identity of the community.",
+        key_techs: ["Adobe Photoshop",],
+    },
+
 ];

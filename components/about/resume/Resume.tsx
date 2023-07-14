@@ -21,6 +21,12 @@ const Resume = () => {
                         </h5>
                         <p className="font-bold">Muhammadiyah University Prof Dr. Hamka.</p>
                         <small className={"text-sm font-semibold"}>September 2020 - Present</small>
+
+                        <h5 className="my-2 text-xl font-bold ">
+                            Frontend Engineering
+                        </h5>
+                        <p className="font-bold">Kampus Merdeka Ruangguru</p>
+                        <small className={"text-sm font-semibold"}>Februari 2023 - Juli 2023</small>
                     </div>
                 </div>
                 <div>
