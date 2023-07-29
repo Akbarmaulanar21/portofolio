@@ -276,4 +276,18 @@ export const projects: IProject[] = [
             "I have successfully created a Library App website using the ReactJS programming language. This website is used to manage book data, such as adding, editing, and deleting book data.",
         key_techs: ["ReactJs",],
     },
+
+    {
+        name: "photo Gallery",
+        image_path: [
+            "/images/projects/photoGallery/photoGallery.png",
+            "/images/projects/photoGallery/photoGallery2.png",
+        ],
+        deployed_url: "https://photo-gallery-akbarmaulanar21.vercel.app/",
+        github_url: "",
+        category: ["Website"],
+        description:
+            "I have successfully created a photo gallery website using the ReactJS programming language. This website is used to display photos that I have taken.",
+        key_techs: ["ReactJs",],
+    },
 ];
