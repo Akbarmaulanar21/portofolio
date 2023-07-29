@@ -213,7 +213,6 @@ export const projects: IProject[] = [
         image_path: [
             "/images/projects/portfolio/portfolio1.png",
             "/images/projects/portfolio/portfolio2.png",
-            "/images/projects/portfolio/portfolio3.png",
 
         ],
         deployed_url: "https://portofolio-akbarmaulanar21.vercel.app/",
@@ -227,7 +226,6 @@ export const projects: IProject[] = [
         image_path: [
             "/images/projects/Gmath/Gmath.png",
             "/images/projects/Gmath/Gmath2.png",
-            "/images/projects/Gmath/Gmath3.png",
         ],
         deployed_url: "https://mathgini.my.id/gita/",
         github_url: "https://github.com/Akbarmaulanar21/Website-GMath",
@@ -242,7 +240,6 @@ export const projects: IProject[] = [
         image_path: [
             "/images/projects/DataMahasiswa/DataMahasiswa.png",
             "/images/projects/DataMahasiswa/DataMahasiswa2.png",
-            "/images/projects/DataMahasiswa/DataMahasiswa3.png",
         ],
         deployed_url: "",
         github_url: "https://github.com/Akbarmaulanar21/Praktikum_Web",
@@ -257,28 +254,26 @@ export const projects: IProject[] = [
         image_path: [
             "/images/projects/StudentPortal/portal.png",
             "/images/projects/StudentPortal/portal2.png",
-            "/images/projects/StudentPortal/portal3.png",
         ],
-        deployed_url: "",
-        github_url: "",
+        deployed_url: "https://portal-student-react-js.vercel.app/",
+        github_url: "https://github.com/Akbarmaulanar21/Portal_Student-ReactJS",
         category: ["Website"],
         description:
-            "This app is a website for student portals. This website is used to provide information about the campus, such as the campus profile, campus news, and campus events.",
-        key_techs: ["ReactJs", "Vanila CSS",],
+            " I have successfully created a Student Portal website using the ReactJS programming language. website student portal is a website that is used to manage student data, such as adding, editing, and deleting student data. ",
+        key_techs: ["ReactJs",],
     },
 
     {
-        name: "Tong Company",
+        name: "Library App",
         image_path: [
-            "/images/projects/Design/Tong1.jpg",
-            "/images/projects/Design/Tong2.jpg",
+            "/images/projects/LibraryApp/library.png",
+            "/images/projects/LibraryApp/library2.png",
         ],
-        deployed_url: "",
-        github_url: "",
-        category: ["Design"],
+        deployed_url: "https://ruang-librarya-app.netlify.app/",
+        github_url: "https://github.com/Akbarmaulanar21/Library-App",
+        category: ["Website"],
         description:
-            "The Tong Company Community logo is a graphical representation that reflects the values, goals, and unique identity of the community.",
-        key_techs: ["Adobe Photoshop",],
+            "I have successfully created a Library App website using the ReactJS programming language. This website is used to manage book data, such as adding, editing, and deleting book data.",
+        key_techs: ["ReactJs",],
     },
-
 ];
